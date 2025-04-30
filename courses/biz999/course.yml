@@ -1,0 +1,32 @@
+id: 576ac496-a4fd-471a-b022-e0da1ab89a29
+is_planb_school: true
+project_id: cd62a137-baad-4133-b90d-711963e510c7
+topic: business
+subtopic: business
+level: beginner
+hours: 102
+teaching_format: professor_led
+requires_payment: false
+format: hybrid
+inperson_price_dollars: 250
+paid_description: |
+  The Annual Business/Finance School of the Plan ₿ Network, as described in the curriculum
+  - Access to live lectures during the whole program (in person and online)
+  - Access to replays, resources, and exercises
+  - Access to private chats with teachers
+  For any questions please reach contact@planb.network
+paid_video_link: https://www.youtube.com/watch?v=MNf97XgBdTc
+start_date: 2025-03-20
+end_date: 2025-06-31
+published_at: 2025-02-07
+payment_expiration_date: 2026-06-21
+professors_id:
+  - 2e1b5182-567e-453a-af29-36009340ff02
+  - dac3b166-31ef-41f3-bfef-6e9d3855c12c
+original_language: en
+proofreading:
+  - language: en
+    last_contribution_date:
+    urgency: 1
+    contributor_names:
+    reward: 0
