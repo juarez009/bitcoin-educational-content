@@ -1,0 +1,26 @@
+id: edeedc80-cdc5-4bca-8d29-84545561ae46
+start_date: 2025-05-02 09:30:00
+end_date: 2025-05-02 12:30:00
+timezone: Europe/Rome
+address_city_country: Taipei, Taiwan
+name: First Lecture livestream attendance - Plan ₿ Biz School 2025
+type: lecture
+book_online: true
+book_in_person: false
+price_dollars: 0
+is_gdpr_compliance: true
+custom_tc_disclaimer: 
+description: 
+  Join us for the first lecture of Plan ₿ Biz School 2025, where we will explore the intersection of Bitcoin and business. This event is part of a series of lectures designed to provide valuable insights into the world of Bitcoin and its impact on the business landscape.
+  The first class will be livestreamed for free, allowing participants from around the world to join in and learn from our expert speakers. Don't miss this opportunity to gain knowledge and network with like-minded individuals.
+language:
+  - en
+links:
+  website: 
+  replay_url: 
+  live_url: https://www.youtube.com/embed/jfKfPfyJRdk?si=l58lYIHybfcPgQZl
+project_id: cd62a137-baad-4133-b90d-711963e510c7
+tags:
+  - proof-of-work
+  - finance
+  - adoption
